@@ -370,7 +370,7 @@ h4 {
   margin: 0 auto;
   position: relative;
   /* IN THE END */
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .slide {
